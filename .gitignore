@@ -1,0 +1,40 @@
+### Latex ###
+*.acn
+*.aux
+*.glo
+*.log
+*.lof
+*.out
+*.toc
+*.xdy
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm
+*.synctex.gz
+*.xdv
+latexmkrc
+
+### Photos ###
+*Zone.Identifier
+
+###Build ###
+*build/
+
+### Minted ###
+*minted*
+
+### VisualStudioCode ###
+*vscode*
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+### Dicionnary ###
+*.dict
+
+### Makefile ###
+Makefile
