@@ -1,2 +1,2 @@
 # Programming-2-ParallelismConcurrency
-Skeleton for the Exercise for the course Programming II SoSe2025
+Skeleton for the exercise 6 of the course Programming II SoSe2025
